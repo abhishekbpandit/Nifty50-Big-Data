@@ -10,10 +10,10 @@ The data used in this project was ***minute-by-minute stock prices for 100 stock
 
 The approach for the prediction was to use machine learning models to learn from the technical indicators and sectors of the stocks to make predictions. The following models were used:
 
-Gradient Boosting Classifier (GBT)
-Gradient Boosting Classifier with PCA to reduce training time
-Random Forest with hyperparameter tuning
-ARIMA
+- Gradient Boosting Classifier (GBT)
+- Gradient Boosting Classifier with PCA to reduce training time
+- Random Forest with hyperparameter tuning
+- ARIMA
 
 ## Technologies
 
